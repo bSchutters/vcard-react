@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Sk-Modernist-Regular';
+    src: url('Sk-Modernist-Regular.woff2') format('woff2'),
+        url('Sk-Modernist-Regular.woff') format('woff'),
+        url('Sk-Modernist-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Enoway-PersonalUse';
+    src: url('Enoway-PersonalUse.woff2') format('woff2'),
+        url('Enoway-PersonalUse.woff') format('woff'),
+        url('Enoway-PersonalUse.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

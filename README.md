@@ -1,9 +1,16 @@
-# React + Vite
+# VCard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Get in touch with me through my vcard.
 
-Currently, two official plugins are available:
+## Live version
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# vcard-react
+See it live [HERE](https://bschutters.github.io/vcard-react)
+
+## Preview
+
+![screenshot](./src/assets/img/screenshot.jpg)
+
+## Tech
+
+- [React](https://react.dev/)
+

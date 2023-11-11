@@ -1,7 +1,9 @@
+import portraitB from '../assets/img/portraitB.jpg'
+
 export default function Container(){
     return(
         <section className="container">
-        <img className="portrait" src="./src/assets/img/portraitB.jpg" alt="" />
+        <img className="portrait" src={portraitB} alt="" />
         <div className="content">
           <h1>Schutters Bryan</h1>
           <h2>
